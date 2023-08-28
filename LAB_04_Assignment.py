@@ -26,6 +26,8 @@ def main():
         Employee("171G30", "Ajay", 45, 44000)
     ]
     
+    print("Shivam Kala")
+    print("E22CSEU0506/B-17")
     print("Select sorting parameter:")
     print("1. Age")
     print("2. Name")
